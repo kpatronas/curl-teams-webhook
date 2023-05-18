@@ -1,5 +1,5 @@
 # curl-teams-webhook
-Use curl to send an MS Teams Webhook
+Send a webhook from the command line easily!
 
 ## setup
 ```
