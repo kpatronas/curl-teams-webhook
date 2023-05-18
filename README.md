@@ -6,11 +6,12 @@ Use curl to send an MS Teams Webhook
 chmod +x ./webhook.sh
 ```
 
-## Parameters
+## Parameters explaination
 
 ```
 # Pipe text from another command
 command | ./webhook.sh <webhook>
+
 # or use a text file as parameter
 ./webhook.sh <text-file> <webhook>
 ```
